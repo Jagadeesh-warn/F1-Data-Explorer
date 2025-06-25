@@ -60,7 +60,7 @@ The following CSV files are used for data analysis:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/F1-Data-Explorer.git
+   git clone https://github.com/Jagadeesh-warn/F1-Data-Explorer.git
    cd F1-Data-Explorer
    ```
 2. Install dependencies:
